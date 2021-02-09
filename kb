@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jmar42 on github.
+  * I am jmar42 (https://keybase.io/jmar42) on keybase.
+  * I have a public key ASBv_iV27u3UCDrWCETt5Nk8AyPY8ahHYx0YGUGBVtUXbQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012096e81a2dfd4b59ef39ff567aa1bb7a2e7d1d63b76ce506a4241fada9059de7d50a",
+      "host": "keybase.io",
+      "kid": "01206ffe2576eeedd4083ad60844ede4d93c0323d8f1a847631d1819418156d5176d0a",
+      "uid": "9aa0c46d1e96701063445c19e9910119",
+      "username": "jmar42"
+    },
+    "merkle_root": {
+      "ctime": 1612896116,
+      "hash": "ab43b7b423cb29bb4487aca2163283e69858544a526d08525428d0ba82765442a160474ae95b7fdff8ef0e6a34b8adcd54ecbc3069aa0cd5fcd026f4b157afb4",
+      "hash_meta": "dedf9129324f1b431cee32fbc70fe5e22bf89dfab238c9d004df1d151390cd93",
+      "seqno": 19061258
+    },
+    "service": {
+      "entropy": "JaFBTZikKNwuvbvv7KjLql5B",
+      "name": "github",
+      "username": "jmar42"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1612896128,
+  "expire_in": 504576000,
+  "prev": "ac3815c1caf9f0628fbfa9ea13b8cf281f929b3f26b442b8da46e3e98ec7ede6",
+  "seqno": 46,
+  "tag": "signature"
+}
+```
+
+with the key [ASBv_iV27u3UCDrWCETt5Nk8AyPY8ahHYx0YGUGBVtUXbQo](https://keybase.io/jmar42), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgb/4ldu7t1Ag61ghE7eTZPAMj2PGoR2MdGBlBgVbVF20Kp3BheWxvYWTESpcCLsQgrDgVwcr58GKPv6nqE7jPKB+Smz8mtEK42kbj6Y7H7ebEIHU49qR4dV+7VjAHJxPCusrtZM2KW1zEYlJ/Lr5gACn1AgHCo3NpZ8RAUC2tn3121AdlFAwpr7fOh4xCMycDfFoxpL6m3qlN9yrlG2dj2ZlkzMhagQLzDgAc0DkYLsxcmnPSxx54nr3TB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL2znTRoZyx8/qy++9AmWXY85h77gkeF6itRErR2sIplo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jmar42
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jmar42
+```
